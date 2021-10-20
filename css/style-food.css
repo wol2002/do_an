@@ -1,0 +1,15 @@
+.wrap-introduce-food{
+	position: relative;
+}
+.wrap-introduce-food img{
+	position: absolute;
+	padding-left: 50%;
+	height: 367px;
+}
+
+.destinations .wrap-text-food{
+    padding: 30px;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 50%;
+}
